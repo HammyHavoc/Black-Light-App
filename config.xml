@@ -19,6 +19,8 @@
 
   <preference name="fullscreen" value="true" />
 
+  <gap:plugin name="com.kernix.pdfviewer" version="1.1.0" />
+  
   <gap:platform name="ios" />
   <gap:platform name="android" />
   <gap:platform name="winphone" />
